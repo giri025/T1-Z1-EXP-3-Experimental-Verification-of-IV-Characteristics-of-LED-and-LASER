@@ -1,4 +1,4 @@
-
+## Giri R (212223060068)
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
 # Fiber Optic LED Characteristics and Photo Detector Response
 
@@ -67,17 +67,15 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ## 📊 TABULATION
 
 ### LED Forward Characteristics
+<img width="912" height="1026" alt="image" src="https://github.com/user-attachments/assets/abfb8798-a645-4079-bdae-a92300cc3438" />
+<img width="864" height="1058" alt="image" src="https://github.com/user-attachments/assets/073fdc83-4978-4fdb-96eb-1f0c5d9ff74a" />
 
-| Forward Voltage Vf (V) | Forward Current If (mA) |
-|------------------------|-------------------------|
-|                        |                         |
-|                        |                         |
-|                        |                         |
+## Graph 
+<img width="714" height="875" alt="image" src="https://github.com/user-attachments/assets/03fab129-ddcb-431f-87a7-bd1616f92edc" />
+
 
 ---
 
-## 📈 MODEL GRAPH
-*(Insert graph of Vf vs If here)*
 
 ---
 
