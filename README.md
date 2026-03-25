@@ -73,12 +73,10 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ## GRAPH
 <img width="714" height="875" alt="image" src="https://github.com/user-attachments/assets/03fab129-ddcb-431f-87a7-bd1616f92edc" />
 
-
----
-
-
 ---
 
 ## ✅ RESULT
-- The forward voltage and current characteristics of the fiber optic LED were successfully studied.
-- The photo detector response was observed and analyzed.
+ The forward voltage and current characteristics of the fiber optic LED were successfully studied.
+ The photo detector response was observed and analyzed.
+ 
+ ---
